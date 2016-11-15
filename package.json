@@ -1,0 +1,17 @@
+{
+  "name": "node-throttled-proxy",
+  "description": "Nodejs tcp proxy implementation that can throttle the connection",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:alexandrusavin/node-throttled-proxy.git",
+    "type": "git"
+  },
+  "author": "Alexandru Savin <alexandrusavin@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.1",
+    "minimist": "^1.2.0",
+    "throttle": "^1.0.3"
+  }
+}
