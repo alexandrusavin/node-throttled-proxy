@@ -11,7 +11,7 @@
   "license": "MIT",
   "dependencies": {
     "lodash": "^4.17.1",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.6",
     "throttle": "^1.0.3"
   }
 }
